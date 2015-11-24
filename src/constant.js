@@ -5,4 +5,4 @@ export const SH_APP_ID = 'vwnJloRmksvdS6pcQ4yI';
 
 export const SH_USER = 'aelboudali';
 export const SH_PROJECT = 'tv';
-export const SH_VERSION = 'YOUR_PROJECT_VERSION';
+export const SH_VERSION = 'master';
