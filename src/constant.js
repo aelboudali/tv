@@ -1,8 +1,8 @@
 export const RUNTIME_URL = 'runtime.craft.ai';
 
-export const SH_APP_SECRET = 'YOUR_APP_SECRET';
-export const SH_APP_ID = 'YOUR_APP_ID';
+export const SH_APP_SECRET = 'akQE0RLhE5luRm8oTrGLXOz13m8YnZi5lSug5Tk3';
+export const SH_APP_ID = 'vwnJloRmksvdS6pcQ4yI';
 
-export const SH_USER = 'YOUR_GITHUB_NAME';
-export const SH_PROJECT = 'YOUR_PROJECT_NAME';
+export const SH_USER = 'aelboudali';
+export const SH_PROJECT = 'tv';
 export const SH_VERSION = 'YOUR_PROJECT_VERSION';
